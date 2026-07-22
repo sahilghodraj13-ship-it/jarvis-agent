@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="accessibility_description">Jarvis needs accessibility access to control your phone — tap buttons, type text, swipe, and navigate apps on your behalf using voice commands.</string>
+</resources>
